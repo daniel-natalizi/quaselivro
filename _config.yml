@@ -1,9 +1,9 @@
 # Configurações do Site
-title: Meu Blog
-name: Seu Nome
-description: Um blog simples com Minimal Mistakes
-url: "https://seu-usuario.github.io"  # Troque pelo seu usuário
-baseurl: "/nome-do-repositorio"       # Troque pelo nome do seu repositório
+title: QuaseLivro
+name: Daniel Natalizi
+description: Informações e opiniões
+url: "https://daniel-natalizi.github.io"  # Troque pelo seu usuário
+baseurl: "/quaselivro"       # Troque pelo nome do seu repositório
 
 # Configuração do Tema
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
