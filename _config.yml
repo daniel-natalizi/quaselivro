@@ -22,6 +22,14 @@ incremental: false
 # Configuração de URLs (importante para o GitHub Pages)
 permalink: /:categories/:title/
 
+# Configuração para postagens
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:categories/:title/
+
 # Collections (para posts)
 collections:
   posts:
