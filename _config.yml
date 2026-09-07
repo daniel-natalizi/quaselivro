@@ -1,0 +1,36 @@
+# Configurações do Site
+title: Meu Blog
+name: Seu Nome
+description: Um blog simples com Minimal Mistakes
+url: "https://seu-usuario.github.io"  # Troque pelo seu usuário
+baseurl: "/nome-do-repositorio"       # Troque pelo nome do seu repositório
+
+# Configuração do Tema
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+# Plugins (obrigatório para o tema funcionar)
+plugins:
+  - jekyll-include-cache
+
+# Configurações de Build
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Configuração de URLs (importante para o GitHub Pages)
+permalink: /:categories/:title/
+
+# Collections (para posts)
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
+
+# Configurações do Autor (opcional)
+author:
+  name: "Daniel Natalizi"
+  avatar: ""  # Coloque um link para sua foto se quiser
+  bio: "Opiniões e informações"
+  location: "Brasil"
