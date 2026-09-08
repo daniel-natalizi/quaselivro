@@ -1,11 +1,18 @@
 ---
-layout: single
+layout: home
 author_profile: true
 ---
 
-Bem-vindo! Resolvi substituir as redes sociais por um bom e velho blog. Opiniões e informações.
-
-{% for post in site.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
-{% endfor %}
+<!-- Este código garante que os links usem o baseurl -->
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+      <h2>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title }}
+        </a>
+      </h2>
+      <p>{{ post.excerpt }}</p>
+    </article>
+  {% endfor %}
+</div>
