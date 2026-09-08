@@ -3,16 +3,3 @@ layout: home
 author_profile: true
 ---
 
-<!-- Este código garante que os links usem o baseurl -->
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          {{ post.title }}
-        </a>
-      </h2>
-      <p>{{ post.excerpt }}</p>
-    </article>
-  {% endfor %}
-</div>
