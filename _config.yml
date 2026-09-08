@@ -25,7 +25,7 @@ permalink: /:categories/:title/
 # Configuração para postagens
 defaults:
   - scope:
-      path: "/quaselivro"
+      path: ""
       type: "posts"
     values:
       permalink: /:categories/:title/
