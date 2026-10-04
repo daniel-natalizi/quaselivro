@@ -1,17 +1,16 @@
 ---
-title: "Teste de uma primeira postagem"
+title: "Essa é a primeira postagem"
 date: 2026-09-07
 categories:
-  - Blog
+  - Opinião
 tags:
   - boas-vindas
   - introdução
 ---
 
-Bem-vindo ao meu blog!
+# Bem-vinda, bem-vindo!
 
-Este é o meu primeiro post usando o tema Minimal Mistakes no GitHub Pages.
-
-## Teste de título?
-
-Opiniões e informações vindo por aí
+Esse é um resgate da internet como ela foi pensada.
+Pública e livre, antes das redes sociais.
+Sem um algoritmo para filtrar o conteúdo.
+Você digita o endereço e acessa as informações no seu tempo, do seu jeito.
