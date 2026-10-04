@@ -1,5 +1,5 @@
 ---
-title: "Essa é a primeira postagem"
+title: "Inauguração"
 date: 2026-09-07
 categories:
   - Opinião
