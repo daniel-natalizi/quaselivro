@@ -47,10 +47,10 @@ author:
   bio: "Opiniões e informações"
   location: "Brasil"
   links:
-  - label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:seu-email@example.com"
-  - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "www.linkedin.com/in/daniel-natalizi-76a381b9"
 
