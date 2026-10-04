@@ -1,0 +1,23 @@
+// Customização de Margem do Conteúdo
+.page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.page__content {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+body {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+// Para posts especificamente
+.archive__item-content,
+article {
+  padding-left: 20px;
+  padding-right: 20px;
+}
