@@ -7,10 +7,15 @@ baseurl: "/quaselivro"       # Troque pelo nome do seu repositório
 
 # Configuração do Tema
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark"           # Alternativas: light, air, aqua, contrast, dark, dirt, neon, plum, sunrise
 
 # Plugins (obrigatório para o tema funcionar)
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+#  - jekyll-seo-tag
+  - jemoji
 
 # Configurações de Build
 markdown: kramdown
@@ -41,3 +46,17 @@ author:
   name: "Daniel Natalizi"
   bio: "Opiniões e informações"
   location: "Brasil"
+  links:
+  - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:seu-email@example.com"
+  - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "www.linkedin.com/in/daniel-natalizi-76a381b9"
+
+# Customização de aparência
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/daniel-natalizi"
