@@ -8,7 +8,7 @@ tags:
   - introdução
 ---
 
-# Bem-vinda, bem-vindo!
+# Bem-vinda, bem-vindo! OI
 
 Esse é um resgate da internet como ela foi pensada.
 
