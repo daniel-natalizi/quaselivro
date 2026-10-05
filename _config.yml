@@ -1,7 +1,7 @@
 # Configurações do Site
 title: QuaseLivro
 name: Daniel Natalizi
-description: Informações e opiniões
+description: Informações e opiniões de qualidade
 url: "https://daniel-natalizi.github.io"  # Troque pelo seu usuário
 baseurl: "/quaselivro"       # Troque pelo nome do seu repositório
 
