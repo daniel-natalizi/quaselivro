@@ -14,6 +14,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-remote-theme    # linha para fazer estilos funcionar
 #  - jekyll-seo-tag
   - jemoji
 
