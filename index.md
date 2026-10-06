@@ -10,22 +10,16 @@ excerpt: "Literatura, informações e opiniões de qualidade"
 
 ---
 
-## 📰 Posts Recentes
+## 📰 Olha só que temos:
 
-{% if site.posts.size > 0 %}
-  {% for post in site.posts limit:5 %}
-    ### [{{ post.title }}]({{ post.url }})
-    **{{ post.date | date: "%d de %B de %Y" }}**
-    
-    {{ post.excerpt }}
-    
-    [Leia mais →]({{ post.url }})
-    
-    ---
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <small>{{ post.date | date: "%d/%m/%Y" }}</small>
+    </li>
   {% endfor %}
-{% else %}
-  *Nenhum post publicado ainda. Volte em breve!*
-{% endif %}
+</ul>
 
 ---
 
