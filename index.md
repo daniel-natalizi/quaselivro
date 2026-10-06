@@ -8,8 +8,6 @@ excerpt: "Literatura, informações e opiniões de qualidade"
 
 **Literatura, informações e opiniões do jeito rápido!**
 
-Um espaço dedicado a compartilhar conhecimento, notícias e reflexões sobre temas que importam.
-
 ---
 
 ## 📰 Posts Recentes
