@@ -7,7 +7,6 @@ baseurl: "/quaselivro"       # Troque pelo nome do seu repositório
 
 # Configuração do Tema
 remote_theme: pages-themes/architect@v0.2.0
-minimal_mistakes_skin: "dark"           # Alternativas: light, air, aqua, contrast, dark, dirt, neon, plum, sunrise
 
 # Plugins (obrigatório para o tema funcionar)
 plugins:
@@ -15,6 +14,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jemoji
+  - jekyll-remote-theme
 #  - jekyll-seo-tag
 
 # Configurações de Build
