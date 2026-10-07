@@ -1,3 +1,13 @@
+---
+title: "Metamentira"
+date: 2026-10-07
+categories:
+  - Opiniões
+tags:
+  - política 
+  - 6x1
+---
+
 ## Metamentira
 
 <img width="400" alt="crédito UOL" src="/assets/images/flavio.jpg"/>
