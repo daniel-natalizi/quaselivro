@@ -1,5 +1,7 @@
 ## Metamentira
 
+<img width="400" alt="crédito UOL" src="assets/images/flavio.jpg"/>
+
 Flávio Bolsonaro mente quando diz que vai melhorar a vida do trabalhador ao rejeitar o fim da escala 6x1. Essa é uma mentira clássica, foi repetida à exaustão durante a aprovação da reforma trabalhista. É uma mentira que serve para esconder o capitalismo pré-industrial brasileiro, no qual as empresas só conseguem expandir seus lucros achatando os salários e aumentando os preços.
 
 Muita gente acredita, alguns porque confiam em Flávio, outros porque estão sem qualquer perspectiva de conseguir um emprego formal, enxergando no fim da CLT uma justiça, uma redenção. Agora todos vão ter que trabalhar por conta própria, sem garantia de salário, sem garantia de futuro, sem descanso ou férias, como já trabalham as diaristas, motoristas, entregadores, vendedores avulsos e muitos mais.
