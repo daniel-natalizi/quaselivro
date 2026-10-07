@@ -4,13 +4,13 @@ title: QuaseLivro
 excerpt: "Literatura, informações e opiniões de qualidade"
 ---
 
-# Bem-vindo ao QuaseLivro 📚
+# Bem-vindo ao QuaseLivro
 
 **Literatura, informações e opiniões do jeito rápido!**
 
 ---
 
-## 📰 Olha só que temos:
+## 📰 Olha só o que temos:
 
 <ul>
   {% for post in site.posts %}
@@ -23,23 +23,11 @@ excerpt: "Literatura, informações e opiniões de qualidade"
 
 ---
 
-## 👋 Sobre
-
-Sou **Daniel Natalizi** e criei este espaço para compartilhar ideias, artigos e materiais que acredito serem relevantes.
-
-**Temas abordados:**
-- 📖 Literatura
-- 💡 Opinião e análise
-- 📚 Materiais educacionais
-- 🌍 Atualidades
-
----
-
 ## 🔗 Conecte-se
 
 - [GitHub](https://github.com/daniel-natalizi)
 - [LinkedIn](https://www.linkedin.com/in/daniel-natalizi-76a381b9)
-- [Email](mailto:seu-email@example.com)
+- [Email](mailto: daniel.natalizi@gmail.com)
 
 ---
 
